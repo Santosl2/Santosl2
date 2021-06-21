@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Santosl2
+- 👀 I’m interested in Javascript and PHP 
+- 🌱 I’m currently learning Vue.js documentation
+- 💞️ I’m looking to collaborate on all projects
+- 📫 How to reach me on Discord (Santosl2c#6971)
+- My current knowledge: HTML, CSS, PHP (CodeIgniter), SQL, Javascript ( jQuery, Vue.js )
