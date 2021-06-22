@@ -1,6 +1,21 @@
-- 👋 Hi, I’m @Santosl2
-- 👀 I’m interested in Javascript and PHP 
-- 🌱 I’m currently learning Vue.js documentation
-- 💞️ I’m looking to collaborate on all projects
-- 📫 How to reach me on Discord (Santosl2c#6971)
-- My current knowledge: HTML, CSS, PHP (CodeIgniter), SQL, Javascript ( jQuery, Vue.js )
+# 👋 Hi there
+ 
+Meu nome é Matheus Filype tenho 18 anos.
+Atualmente cursando Analise e desenvolvimento de Sistemas, em Ipatinga-MG
+
+## Meus conhecimentos
+- PHP, CodeIgniter
+- HTML, CSS, Javascript, jQuery, Vue.js 
+- Banco de Dados, MySQL
+- Git, GitHub
+
+## Pretende aprender futuramente
+- React
+- React Native
+
+
+## Familiarizado com as seguintes linguagens
+- Java
+- C#
+- C++
+
