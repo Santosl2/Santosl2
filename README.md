@@ -19,3 +19,6 @@ Atualmente cursando Analise e desenvolvimento de Sistemas, em Ipatinga-MG
 - C#
 - C++
 
+### Contato: 
+
+Discord: Santosl2c#6971
