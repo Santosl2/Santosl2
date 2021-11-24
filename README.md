@@ -5,14 +5,14 @@ Atualmente cursando Analise e desenvolvimento de Sistemas, em Ipatinga-MG
 
 ## Meus conhecimentos
 - PHP, CodeIgniter 
-- HTML, CSS, Javascript, jQuery, Vue.js, Ajax, Bootstrap, NodeJS
-- Design Patterns, MVC 
+- HTML, CSS, Javascript, jQuery, React, Vue.js, Ajax, Bootstrap, NodeJS
+- Design Patterns, MVC, Solid
 - Banco de Dados, MySQL 
+- TDD 
 - Git, GitHub
 
 
 ## Pretende aprender futuramente
-- React
 - React Native
 
 
