@@ -26,9 +26,8 @@ Atualmente cursando Analise e desenvolvimento de Sistemas, em Ipatinga-MG
   <img align="center" alt="Santos-CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-### Contato: 
-
-Discord: Santosl2c#6971
+### Contato:
  
- 
-E-mail: mfilpye2019@gmail.com
+<p align="left">
+<a href="https://linkedin.com/in/mfilype" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfilype" height="30" width="40" /></a>
+</p>
