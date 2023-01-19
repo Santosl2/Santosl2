@@ -1,7 +1,11 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<p align="left">My name is Matheus and i'm Frontend Developer from Ipatinga, Brazil.</p>
+<p align="left">My name is Matheus. Passionate about development since the age of 12, I always seek challenges in web development. At 20 years old, I have experience in various technologies such as React, NextJS, unit testing and others. I am always looking to learn more and my goal is to create innovative and efficient solutions for the problems faced by users.
+
+
+
+</p>
 
 ###
 <h2 align="left">😀 About me</h2>
