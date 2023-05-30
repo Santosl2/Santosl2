@@ -51,7 +51,8 @@ const importantLinks = {
 
 **📕 Last posts**
 <!-- BLOG-POST-LIST:START -->
-- [Como implementar micro-frontend's usando Next.JS e module federation](https://www.linkedin.com/pulse/como-implementar-micro-frontends-usando-nextjs-e-module-filype/?trackingId=5xnJfxbpRKu1b8j53E2ScA%3D%3D)
+- [Dominando a Especificidade de CSS](https://www.linkedin.com/pulse/dominando-especificidade-de-css-matheus-filype)
+- [Como implementar micro-frontend's usando Next.JS e module federation](https://www.linkedin.com/pulse/como-implementar-micro-frontends-usando-nextjs-e-module-filype/)
 - [Performando suas aplicações React](https://www.linkedin.com/pulse/performando-suas-aplica%C3%A7%C3%B5es-react-matheus-filype/)
 <!-- BLOG-POST-LIST:END -->
 
