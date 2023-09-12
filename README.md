@@ -51,6 +51,7 @@ const importantLinks = {
 
 **📕 Last posts**
 <!-- BLOG-POST-LIST:START -->
+- [Deixando seus componentes React mais reutilizáveis](https://www.linkedin.com/pulse/deixe-seus-componentes-react-mais-reutiliz%25C3%25A1veis-matheus-filype)
 - [Dominando a Especificidade de CSS](https://www.linkedin.com/pulse/dominando-especificidade-de-css-matheus-filype)
 - [Como implementar micro-frontend's usando Next.JS e module federation](https://www.linkedin.com/pulse/como-implementar-micro-frontends-usando-nextjs-e-module-filype/)
 - [Performando suas aplicações React](https://www.linkedin.com/pulse/performando-suas-aplica%C3%A7%C3%B5es-react-matheus-filype/)
